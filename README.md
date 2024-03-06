@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!
 
 <!--
 **sarah-haddix/sarah-haddix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student at UNC Chapel Hill studying computer science and mathematics
+
+I'm currently learning: advanced java, mobile development with swift+swiftui, convex optimization with applications in machine learning
+
+I'm looking to get more into software development and AI, maybe some open source contributions
+
+I could use help with anything really
+
+Feel free to reach me at sarahbh@unc.edu
