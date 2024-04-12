@@ -21,6 +21,4 @@ I'm currently learning: advanced java, mobile development with swift+swiftui, co
 
 I'm looking to get more into software development and AI, maybe some open source contributions
 
-I could use help with anything really
-
 Feel free to reach me at sarahbh@unc.edu
