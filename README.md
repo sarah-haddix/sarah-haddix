@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I'm a student at UNC Chapel Hill studying computer science and mathematics
-
-I'm currently learning: mobile development with swift+swiftui, parallel computing principles, convex optimization with applications in machine learning, broader machine learning principles, advanced java
