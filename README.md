@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a student at UNC Chapel Hill studying computer science and mathematics
+
+Check out my website: https://sarah-haddix.github.io/
